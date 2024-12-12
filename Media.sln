@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer.GUI", "MusicPlayer.GUI\MusicPlayer.GUI.csproj", "{CABDCABC-1D87-4577-B752-4842257A70C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer.BLL", "MusicPlayer.BLL\MusicPlayer.BLL.csproj", "{4E670AA2-01DE-4BD4-8645-ACC1AB2113C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicPlayer.DAL", "MusicPlayer.DAL\MusicPlayer.DAL.csproj", "{9EDA4F1F-CD1E-4BC9-8E9E-7F1DF5556577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CABDCABC-1D87-4577-B752-4842257A70C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CABDCABC-1D87-4577-B752-4842257A70C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CABDCABC-1D87-4577-B752-4842257A70C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CABDCABC-1D87-4577-B752-4842257A70C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E670AA2-01DE-4BD4-8645-ACC1AB2113C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E670AA2-01DE-4BD4-8645-ACC1AB2113C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E670AA2-01DE-4BD4-8645-ACC1AB2113C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E670AA2-01DE-4BD4-8645-ACC1AB2113C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EDA4F1F-CD1E-4BC9-8E9E-7F1DF5556577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EDA4F1F-CD1E-4BC9-8E9E-7F1DF5556577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EDA4F1F-CD1E-4BC9-8E9E-7F1DF5556577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EDA4F1F-CD1E-4BC9-8E9E-7F1DF5556577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
