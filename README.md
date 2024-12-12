@@ -73,9 +73,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any queries or suggestions, feel free to reach out:
 
-- **Name**: Le Tuyet Trinh
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **Name**: Pham Dinh Ngan
+- **Email**: Phamdinhngancc151@gmail.com
+- **GitHub**: https://github.com/NganPD
 
 Enjoy using the Music Player! 🎵
 
